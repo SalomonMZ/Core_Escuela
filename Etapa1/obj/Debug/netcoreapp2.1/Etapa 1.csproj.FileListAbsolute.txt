@@ -1,0 +1,11 @@
+C:\Users\SalomónMorenoZuluaga\Documents\Curso NETCore Platzi\Etapa 1\bin\Debug\netcoreapp2.1\Etapa 1.deps.json
+C:\Users\SalomónMorenoZuluaga\Documents\Curso NETCore Platzi\Etapa 1\bin\Debug\netcoreapp2.1\Etapa 1.runtimeconfig.json
+C:\Users\SalomónMorenoZuluaga\Documents\Curso NETCore Platzi\Etapa 1\bin\Debug\netcoreapp2.1\Etapa 1.runtimeconfig.dev.json
+C:\Users\SalomónMorenoZuluaga\Documents\Curso NETCore Platzi\Etapa 1\bin\Debug\netcoreapp2.1\Etapa 1.dll
+C:\Users\SalomónMorenoZuluaga\Documents\Curso NETCore Platzi\Etapa 1\bin\Debug\netcoreapp2.1\Etapa 1.pdb
+C:\Users\SalomónMorenoZuluaga\Documents\Curso NETCore Platzi\Etapa 1\obj\Debug\netcoreapp2.1\Etapa 1.csprojAssemblyReference.cache
+C:\Users\SalomónMorenoZuluaga\Documents\Curso NETCore Platzi\Etapa 1\obj\Debug\netcoreapp2.1\Etapa 1.csproj.CoreCompileInputs.cache
+C:\Users\SalomónMorenoZuluaga\Documents\Curso NETCore Platzi\Etapa 1\obj\Debug\netcoreapp2.1\Etapa 1.AssemblyInfoInputs.cache
+C:\Users\SalomónMorenoZuluaga\Documents\Curso NETCore Platzi\Etapa 1\obj\Debug\netcoreapp2.1\Etapa 1.AssemblyInfo.cs
+C:\Users\SalomónMorenoZuluaga\Documents\Curso NETCore Platzi\Etapa 1\obj\Debug\netcoreapp2.1\Etapa 1.dll
+C:\Users\SalomónMorenoZuluaga\Documents\Curso NETCore Platzi\Etapa 1\obj\Debug\netcoreapp2.1\Etapa 1.pdb
